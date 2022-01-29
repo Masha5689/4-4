@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(160, 66, 236);
+    padding: 5px;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    
+    padding: 3px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+h1 {
+    color: rgb(172, 0, 252);
+   font-size: 35px; 
+}
+footer {
+    background-color: rgb(211, 163, 100);
+    padding: 3px;
+}
+
+
+footer p {
+    background-color: white;
+    padding: 3px
+}
+ .contact {
+     padding-left:  30px;
+ }
+
+   nav {
+       padding: 10px;
+   }
+
+ nav a {
+     text-decoration: none;
+     border: 1px solid darkblue;
+padding: 5px;
+margin: 10px;
+border-radius: 10px;
+color: darkorchid;
+font-weight: bold;
+ }
